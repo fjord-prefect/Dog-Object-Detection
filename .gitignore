@@ -1,0 +1,6 @@
+annotations/*
+checkpoints/*
+data/train/*
+data/val/*
+log/*
+out/*
